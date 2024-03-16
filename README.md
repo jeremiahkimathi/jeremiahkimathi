@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeremiahkimathi
 - 👀 I’m interested in python
-- 🌱 I’m currently learning codig
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on group work
 - 📫 How to reach me online
 - 😄 Pronouns: he
